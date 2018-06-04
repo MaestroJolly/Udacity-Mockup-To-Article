@@ -1,0 +1,38 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+ * I have learned about Basic HTML Syntax, HTML Structure, Our Coding Environment
+ Browsers Compatibility, Workflow, Tree Structure, HTML Elements, HTML DOCTYPE,
+ The difference between HTML 5 DOCTYPE and Other DOCTYPE, and Translating mockup
+ Designs to Actual Coding.
+
+ * All what I have learned so far as been easy except;
+
+ * Struggling with which should precede which between tags like <strong></strong> and
+ <em></em>
+
+ * I have been able to use it very well, Since the objective of the project is 
+ pretty clear.
+
+
+var x = 1;
+
+while ( x <= 20) {
+    /* your stop condition goes here */
+    // check divisibility
+    // print Julia, James, or JuliaJames
+    // increment x
+    if (x % 3 === 0){
+        console.log("Julia");
+        x = x + 1;
+        break;
+    }else{
+        console.log(x);
+    }
+}
